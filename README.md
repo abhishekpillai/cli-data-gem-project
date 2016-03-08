@@ -1,4 +1,4 @@
-# Build a CLI RubyGem with External Data!!
+# Build a CLI RubyGem with External Data
 
 ## Overview
 
@@ -23,15 +23,14 @@ In this lesson you're going to build a RubyGem that provides a CLI interface to 
 
 ## Instructions
 
-1. Create a new repository on github for your gem
-ie: `name-cli-gem`
-2. Submit that repo to the assessment immediately.
-3. Build your gem there. Make sure to commit early and commit often.
-4. Record at least a 30 min coding session. During the session, either think out loud or not. It's up to you. You don't need to submit it, but we may ask for it at a later time.
-5. Submit a video of how a user would interact with your working gem.
-6. Submit the url to your github project
-7. Write a blog post about the project and process.
-8. We should reach out to you soon to schedule a pairing process. If you don't hear from us in 48 hours after submission, reach out to us on Slack!
+1. Create a new repository on GitHub for your gem, ie: `name-cli-gem`.
+2. On Learn, use the textbox in the right rail to submit the URL of your repo.
+3. Build your gem. Make sure to commit early and commit often.
+4. While you're working on it, record a 30 min coding session with your favorite screen capture tool. During the session, either think out loud or not. It's up to you. You don't need to submit the video, but we may ask for it at a later time.
+5. Prepare a video demo (narration helps!) describing how a user would interact with your working gem.
+6. Write a blog post about the project and process.
+7. When done, e-mail both your video demo and link to your blog post to assessments@learn.co and hit "I'm done" in the right rail to wrap it up. 
+8. We'll reach out to you soon to schedule a pairing process. If you don't hear from us in 48 hours after submission, get in touch!
 
 ### Be Prepared to:
 
@@ -62,4 +61,5 @@ ie: `name-cli-gem`
 ### Resources
 
 - [How to build a ruby gem](http://guides.rubygems.org/make-your-own-gem/)
-- [How to publish your gem](http://guides.rubygems.org/publishing/)
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cli-data-gem-project'>CLI Data Gem Project</a> on Learn.co and start learning to code for free.</p>
